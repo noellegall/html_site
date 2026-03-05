@@ -1,3 +1,3 @@
-<h1>New Site with Pages</h1>
+# New Site with Pages
 
-<p>This is a basic site created with github pages.</p>
+This is a basic site created with GitHub Pages.
