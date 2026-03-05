@@ -2,6 +2,10 @@
 
 Hello! I'm Noelle.
 
-This website was created using GitHub Pages and the Jekyll Minimal theme.
+I live in the UK. 
 
-I am learning how to build websites and manage projects using GitHub.
+I work in the FMCG industry. 
+
+Recent projects incl. blabla 
+
+My goals and professional or personal interests... are blabla
